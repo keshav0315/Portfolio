@@ -123,7 +123,7 @@ const portfolioData = {
       description:
         "A desktop application that instantly extracts workbook information, sheet details, column names, data types, and key statistics from Excel files.",
 
-      image: "images/excel_info_getter.png",
+      image: "images/excel-info-getter.png",
 
       github: "https://github.com/keshav0315/Excel-info-getter.git",
       live: "#",
