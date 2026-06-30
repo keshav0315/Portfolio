@@ -18,8 +18,8 @@ const portfolioData = {
   resumeLink: "#", // e.g. "assets/resume.pdf"
 
   /* Hero & About photos */
-  heroImage: "images/my photo.jpeg",
-  aboutImage: "images/my photo.jpeg",
+  heroImage: "images/my-photo.jpeg",
+  aboutImage: "images/my-photo.jpeg",
 
   /* ── ABOUT DETAILS ── */
   aboutPara1:
