@@ -41,13 +41,13 @@ const portfolioData = {
   skills: {
     frontend: [
       { name: "HTML & CSS", icon: "🌐", level: 90 },
-      { name: "JavaScript", icon: "⚡", level: 50 },
-      { name: "React.js", icon: "⚛️", level: 20 },
+      { name: "JavaScript", icon: "⚡", level: 50 }
     ],
     backend: [
       { name: "Python", icon: "🐍", level: 75 },
       { name: "REST APIs", icon: "🔗", level: 70 },
       { name: "C++", icon: "C++", level: 40 },
+      { name: "C", icon: "C", level: 40 },
     ],
     tools: [
       { name: "Git & GitHub", icon: "🐙", level: 90 },
@@ -174,12 +174,7 @@ const portfolioData = {
 
   /* ── EXPERIENCE ── */
   experience: [
-    {
-      period: "2025 – Present",
-      role: "Junior Web Developer",
-      org: "NA",
-      desc: "Developed landing pages and WordPress sites for 10+ clients across various industries.",
-    },
+    
   ],
 
   /* ── EDUCATION ── */
@@ -193,19 +188,20 @@ const portfolioData = {
   ],
 
   /* ── TESTIMONIALS ── */
-  testimonials: [
-    {
-      text: "Incredible communication throughout the project. Alex understood our vision immediately and translated it into code that exceeded what we imagined.",
-      name: "Priya Nair",
-      title: "Founder, GreenLeaf Studio",
-      image:
-        "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&q=80",
-      stars: 5,
-    },
-  ],
+  
 
   /* ── CERTIFICATIONS ── */
   certifications: [
+    {
+      title: "Tutetude Data Analytics Course",
+      issuer: "Tutetude",
+      date: "12 September 2026",
+      description:
+        "Successfully completed the Tutetude Data Analytics course, gaining practical knowledge of data analysis, working with datasets, understanding data insights, and applying analytics concepts to real-world problems.",
+      image: "images/data-analytics-certificate.png",
+      link: "https://drive.google.com/file/d/1f6cpPbc3YU97lZ3yzREKBOG1zKYofoiS/view?usp=sharing",
+    },
+
     {
       title: "Complete 2026 Python Bootcamp: Learn Python from Scratch",
       issuer: "CodeWithHarry",
